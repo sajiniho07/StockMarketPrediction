@@ -30,3 +30,8 @@ The script also creates an array of 10-day blocks of closing prices and uses the
 The script assumes that the data is in a specific format: two columns (date and closing price) with no header row.
 The script only works with CSV files and requires the pandas package to be installed.
 The script does not take into account any external factors that may affect the stock price.
+
+## Output
+![sample](https://github.com/sajiniho07/StockMarketPrediction/blob/master/res/derivative_plot.png)
+
+![sample](https://github.com/sajiniho07/StockMarketPrediction/blob/master/res/basic_plot.png)
